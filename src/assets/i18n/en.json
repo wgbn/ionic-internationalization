@@ -1,0 +1,16 @@
+{
+    "languages": "Languages",
+    "langPt": "Portuguese",
+    "langBr": "Brazilian Portuguese",
+    "langEn": "English",
+    "langEs": "Spanish",
+    "home_title": "Home",
+    "home_getStarted": "Get Started",
+    "home_welcomeTitle": "Welcome to Ionic",
+    "home_welcomeText": "Now that your app has been created, you'll want to start building out features and components. Check out some of the resources below for next steps.",
+    "home_resources": "Resources",
+    "home_resDocs": "Ionic Documentation",
+    "home_resScaffold": "Scaffold Out Your App",
+    "home_resLayout": "Change Your App Layout",
+    "home_resTheme": "Theme Your App"
+}

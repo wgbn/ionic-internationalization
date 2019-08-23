@@ -1,0 +1,16 @@
+{
+    "languages": "Idiomas",
+    "langPt": "Português",
+    "langBr": "Português do Brasil",
+    "langEn": "Inglês",
+    "langEs": "Espanhol",
+    "home_title": "Casa",
+    "home_getStarted": "Iniciar",
+    "home_welcomeTitle": "Bem-vindo ao Ionic",
+    "home_welcomeText": "Agora que seu aplicativo foi criado, você começará a criar recursos e componentes. Confira alguns dos recursos abaixo para as próximas etapas.",
+    "home_resources": "Recursos",
+    "home_resDocs": "Documentação do Ionic",
+    "home_resScaffold": "Estrutura do seu aplicativo",
+    "home_resLayout": "Altere a aparência do seu aplicativo",
+    "home_resTheme": "Crie temas para seu aplicativo"
+}
